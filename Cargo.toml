@@ -1,0 +1,7 @@
+[package]
+name = "img-sorter"
+version = "0.1.0"
+authors = ["Cristian S <cristian@polymaze.com>"]
+
+[dependencies]
+image = "*"
